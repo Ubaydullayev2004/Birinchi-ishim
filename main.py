@@ -6,3 +6,6 @@ def add(a,b):
 
 def name():
     return f'Boburjon'
+
+def sorname():
+    return f"Ubaydullayev"

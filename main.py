@@ -3,3 +3,6 @@ def info():
 
 def add(a,b):
     return a+b 
+
+def name():
+    return f'Boburjon'
